@@ -1,9 +1,8 @@
 # AMTEA-Based-Multi-task-Optimisation-for-Multi-objective-Feature-Selection-in-Classification
 This repository contains code for reproducing the experiments in the paper "AMTEA-Based Multi-task Optimisation for Multi-objective Feature Selection in Classification" by Jiabin Lin, Qi Chen, Bing Xue, and Mengjie Zhang.
 
-# Contents
-
 # How to run the experiments
+
 * wine_mto.py is the main file of running the proposed algorithm on the wine datasets.
 * The experimental results are stored in .../wine/multi/
 * Results of single-task optimisation on the wine datasets are stored in .../wine/source/
@@ -11,7 +10,6 @@ This repository contains code for reproducing the experiments in the paper "AMTE
 
 # Reference
 
-<textarea rows="10" cols="80" readonly>
 @inproceedings{lin2023amtea,
   title={AMTEA-Based Multi-task Optimisation for Multi-objective Feature Selection in Classification},
   author={Lin, Jiabin and Chen, Qi and Xue, Bing and Zhang, Mengjie},
@@ -20,4 +18,3 @@ This repository contains code for reproducing the experiments in the paper "AMTE
   year={2023},
   organization={Springer}
 }
-</textarea>
