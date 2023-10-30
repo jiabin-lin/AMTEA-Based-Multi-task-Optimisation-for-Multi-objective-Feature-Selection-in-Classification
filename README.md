@@ -9,7 +9,7 @@ This repository contains code for reproducing the experiments in the paper "AMTE
 * train_hv_statistic_table.py, test_hv_statistic_table.py, comp_time_statistic.py are used for analyzing the experimental results.
 
 # Reference
-
+```
 @inproceedings{lin2023amtea,
   title={AMTEA-Based Multi-task Optimisation for Multi-objective Feature Selection in Classification},
   author={Lin, Jiabin and Chen, Qi and Xue, Bing and Zhang, Mengjie},
@@ -18,3 +18,4 @@ This repository contains code for reproducing the experiments in the paper "AMTE
   year={2023},
   organization={Springer}
 }
+```
