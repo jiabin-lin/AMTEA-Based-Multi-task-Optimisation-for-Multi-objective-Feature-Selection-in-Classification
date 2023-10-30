@@ -1,0 +1,2 @@
+# AMTEA-Based-Multi-task-Optimisation-for-Multi-objective-Feature-Selection-in-Classification
+This is the source of the EvoStar 2023 conference paper 'AMTEA-Based Multi-task Optimisation for Multi-objective Feature Selection in Classification'. This method addresses multiple related feature selection tasks simultaneously and share knowledge across them, which improves feature selection performance.
